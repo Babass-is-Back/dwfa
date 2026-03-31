@@ -19,20 +19,20 @@ Constuire un dashboard permettant d'effectuer une première analyse de ces indic
 ### Livrables :  
 * Dashboard Power BI répondant au cahier des charges : 
 
-	* Mesure de ces indicateurs dans le temps : 
+* Mesure de ces indicateurs dans le temps : 
 	
 	- Taux de mortalité dû à de l’eau insalubre
 	- Population / Densité de la population
 	- Part d’habitants ayant accès à l’eau potable
 	- Stabilité politique
 
-	* Mesure de ces indicateurs à l'échelle nationale : 
+* Mesure de ces indicateurs à l'échelle nationale : 
 
 	- Création de services
 	- Modernisation des services
 	- Consulting
 
-	* Exigeances techniques : 
+* Exigeances techniques : 
 	
 	- 3 vues : Mondial / Continental / National
 	- 4 graphiques différents

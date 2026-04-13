@@ -48,7 +48,7 @@ Constuire un dashboard permettant d'effectuer une première analyse de ces indic
 * Rapport PowerPoint présentant la construction du dashboard 
 
 ## Livrables :   
-
+(Clic droit + ouvrir le lien dans un nouvel onglet)
 <p>
     <p><strong>Présentation : </stong></p>
     <a href="Livrables/dwfa-presentation.pdf" title="Voir la présentation">
